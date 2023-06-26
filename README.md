@@ -4,6 +4,7 @@ A final-year project
 Mental health application providing a comprehensive platform for users in Sabah. It enables users to search and book appointments with psychiatrists in the region. The application also includes a feature to locate clinics/hospitals on a map. Additionally, users can access a wealth of articles and activities about mental health.
 
 Screenshot 
+
 ![Screenshot_20220105_200355](https://github.com/Syahfiqasady/Healinic/assets/110529743/e186b02e-4766-4b46-8671-0efa361b256c)
 ![Screenshot_20220105_200410](https://github.com/Syahfiqasady/Healinic/assets/110529743/32a6d49e-0b55-4f53-a429-daafe1dc134d)
 ![Screenshot_20220105_200416](https://github.com/Syahfiqasady/Healinic/assets/110529743/dc683b27-ae3a-41f3-ae28-c9921ff976bf)

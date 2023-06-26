@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450075628352",
+    "project_id": "healinic-2bc86",
+    "storage_bucket": "healinic-2bc86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450075628352:android:8f3a881d3bfb6dafd720a5",
+        "android_client_info": {
+          "package_name": "com.example.fyp_healinic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450075628352-o9uu2kqnrnqkpirk6983gq58b7nd3qq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1uydW66Jf4m5WcCkw175iVbEqy4c9W8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450075628352-o9uu2kqnrnqkpirk6983gq58b7nd3qq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

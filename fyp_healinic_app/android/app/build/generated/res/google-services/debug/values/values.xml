@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">450075628352-o9uu2kqnrnqkpirk6983gq58b7nd3qq4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">450075628352</string>
+    <string name="google_api_key" translatable="false">AIzaSyB1uydW66Jf4m5WcCkw175iVbEqy4c9W8I</string>
+    <string name="google_app_id" translatable="false">1:450075628352:android:8f3a881d3bfb6dafd720a5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB1uydW66Jf4m5WcCkw175iVbEqy4c9W8I</string>
+    <string name="google_storage_bucket" translatable="false">healinic-2bc86.appspot.com</string>
+    <string name="project_id" translatable="false">healinic-2bc86</string>
+</resources>
